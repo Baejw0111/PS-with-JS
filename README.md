@@ -29,21 +29,21 @@
 ## 📋 문제 리스트
 
 <details>
-<summary>프로그래머스 문제 리스트</summary>
+<summary>📌 프로그래머스 문제 리스트</summary>
 
-| 문제 이름 | 난이도 | 링크 | 풀이 코드 |
-| --------- | ------ | ---- | --------- |
+| 문제 이름 | 난이도 | 풀이 코드 |
+| --------- | ------ | --------- |
 
 </details>
 
 <details>
-<summary>백준 문제 리스트</summary>
+<summary>📌 백준 문제 리스트</summary>
 
-| 문제 번호 | 문제 이름  | 난이도 | 링크                                              | 풀이 코드                                                                                                                                          |
-| --------- | ---------- | ------ | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1463      | 1로 만들기 | S3     | [바로가기](https://www.acmicpc.net/problem/1463)  | [풀이](https://github.com/Baejw0111/PS-with-JS/blob/main/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EB%B0%B1%EC%A4%80/1463.js)  |
-| 11047     | 동전 0     | S4     | [바로가기](https://www.acmicpc.net/problem/11047) | [풀이](https://github.com/Baejw0111/PS-with-JS/blob/main/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EB%B0%B1%EC%A4%80/11047.js) |
-| 2230      | 수 고르기  | G5     | [바로가기](https://www.acmicpc.net/problem/2230)  | [풀이](https://github.com/Baejw0111/PS-with-JS/blob/main/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EB%B0%B1%EC%A4%80/2230.js)  |
-| 1002      | 터렛       | S3     | [바로가기](https://www.acmicpc.net/problem/1002)  | [풀이](https://github.com/Baejw0111/PS-with-JS/blob/main/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EB%B0%B1%EC%A4%80/1002.js)  |
+| 문제 이름                                          | 난이도 | 풀이                                                                                                                                                   |
+| -------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [1로 만들기](https://www.acmicpc.net/problem/1463) | S3     | [바로가기](https://github.com/Baejw0111/PS-with-JS/blob/main/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EB%B0%B1%EC%A4%80/1463.js)  |
+| [동전 0](https://www.acmicpc.net/problem/11047)    | S4     | [바로가기](https://github.com/Baejw0111/PS-with-JS/blob/main/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EB%B0%B1%EC%A4%80/11047.js) |
+| [수 고르기](https://www.acmicpc.net/problem/2230)  | G5     | [바로가기](https://github.com/Baejw0111/PS-with-JS/blob/main/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EB%B0%B1%EC%A4%80/2230.js)  |
+| [터렛](https://www.acmicpc.net/problem/1002)       | S3     | [바로가기](https://github.com/Baejw0111/PS-with-JS/blob/main/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EB%B0%B1%EC%A4%80/1002.js)  |
 
 </details>
