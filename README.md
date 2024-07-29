@@ -72,3 +72,9 @@
 | [터렛](https://www.acmicpc.net/problem/1002)       | S3     | [바로가기](https://github.com/Baejw0111/PS-with-JS/blob/main/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%BD%94%EB%93%9C/%EB%B0%B1%EC%A4%80/%ED%84%B0%EB%A0%9B.md)                       |
 
 </details>
+
+## 📚 알고리즘 공부에 참고할만한 좋은 자료들
+
+- [코딩 테스트 및 알고리즘 문제해결 공부 방법 - 박수현](https://www.slideshare.net/slideshow/kucc-2022-4/251739276)
+
+- [실전 알고리즘 - 바킹독](https://baaaaaaaaaaaaaaaaaaaaaaarkingdog.tistory.com/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
