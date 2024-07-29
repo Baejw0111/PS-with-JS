@@ -12,11 +12,7 @@
 
 ## ⚖️ 백준 문제 선정 기준
 
-다음과 같은 기준으로 선정합니다.
-
-- 난이도 실버 ~ 골드 구간
-
-- 골드 난이도 문제의 경우 JS로 푼 사람이 10명 이상
+백준 문제는 [이 페이지](https://solved.ac/search?query=lang%3Ako+*s2..g1+o%3Ftrue&sort=solved&direction=asc&page=1)에 있는 문제들을 풀 예정입니다.
 
 ## 🛠️ 사용 방법
 
